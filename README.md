@@ -53,9 +53,16 @@ Including:
 
 # 📊 Dashboard Preview
 
-> *(Insert your Dashboard screenshot here.)*
 
+## Ecommerce Dashboard
 ![Dashboard](Dashboard/Dashboard.png.png)
+## Ecommerce Dashboard
+![Dashboard](Images/Pivot1.png)
+![Dashboard](Images/Pivot2.png)
+![Dashboard](Images/Pivot3.png)
+![Dashboard](Images/Pivot4.png)
+![Dashboard](Images/Pivot5.png)
+![Dashboard](Images/Pivot6.png)
 
 ---
 
