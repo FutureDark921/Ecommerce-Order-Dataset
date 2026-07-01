@@ -55,7 +55,7 @@ Including:
 
 > *(Insert your Dashboard screenshot here.)*
 
-![Dashboard](Images/Dashboard.png)
+![Dashboard](Dashboard/Dashboard.png.png)
 
 ---
 
