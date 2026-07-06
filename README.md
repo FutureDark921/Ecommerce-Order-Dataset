@@ -2,7 +2,7 @@
 
 ## 📌 Project Overview
 
-This project presents an end-to-end analysis of an e-commerce sales dataset using WPS Spreadsheet. The project demonstrates the complete data analytics workflow, including data cleaning, feature engineering, pivot table analysis, KPI development, and dashboard creation.
+This project presents an end-to-end analysis of an e-commerce sales dataset using Excel and Google Spreadsheet. The project demonstrates the complete data analytics workflow, including data cleaning, feature engineering, pivot table analysis, KPI development, and dashboard creation.
 
 The final dashboard enables users to interactively explore sales performance through slicers and visualizations.
 
